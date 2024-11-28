@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach", "ForEach\ForEach.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FraudOrderChallenge", "FraudOrderChallenge\FraudOrderChallenge.csproj", "{336FF82C-329A-491C-A45A-A420C7057DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFunctions", "TimeFunctions\TimeFunctions.csproj", "{A1D36121-6837-4F1E-923E-9830EBB608A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{336FF82C-329A-491C-A45A-A420C7057DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{336FF82C-329A-491C-A45A-A420C7057DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{336FF82C-329A-491C-A45A-A420C7057DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D36121-6837-4F1E-923E-9830EBB608A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D36121-6837-4F1E-923E-9830EBB608A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D36121-6837-4F1E-923E-9830EBB608A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D36121-6837-4F1E-923E-9830EBB608A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
