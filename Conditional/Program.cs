@@ -9,4 +9,7 @@ Console.WriteLine("Conditionals");
 int saleAmount = 1001;
 int discount = saleAmount > 1000 ? 100 : 50;
 
-Console.WriteLine($"{discount}");
+Console.WriteLine($"Discount: {discount}");
+
+// Can also do inline, note the brackets for the expression
+Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
