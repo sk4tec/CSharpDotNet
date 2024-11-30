@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedConversion", "SpeedCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalChaining", "FunctionalChaining\FunctionalChaining.csproj", "{62E93B38-CA56-472D-82B8-5AAD7286FB72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional", "Conditional\Conditional.csproj", "{A9EE142A-3C67-4B74-A912-F84CFAFC3D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{62E93B38-CA56-472D-82B8-5AAD7286FB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62E93B38-CA56-472D-82B8-5AAD7286FB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62E93B38-CA56-472D-82B8-5AAD7286FB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EE142A-3C67-4B74-A912-F84CFAFC3D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EE142A-3C67-4B74-A912-F84CFAFC3D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EE142A-3C67-4B74-A912-F84CFAFC3D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EE142A-3C67-4B74-A912-F84CFAFC3D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
