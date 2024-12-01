@@ -110,7 +110,7 @@ do
             // List all of our current pet information
             for (int i = 0; i < maxPets; i++)
             {
-                if (ourAnimals[i, 0] != "ID #: ")
+                if (ourAnimals[i, 0] != "ID #: ") // we only load up 4 pets, the rest of the slots are empty
                 {
                     Console.WriteLine();
                     for (int j = 0; j < 6; j++)
@@ -130,7 +130,7 @@ do
             int petCount = 0;
             for (int i = 0; i < maxPets; i++)
             {
-                if (ourAnimals[i, 0] != "ID #: ")
+                if (ourAnimals[i, 0] != "ID #: ")  // we only load up 4 pets, the rest of the slots are empty
                 {
                     petCount += 1;
                 }
