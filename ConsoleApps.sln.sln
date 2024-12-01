@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip", "CoinFlip\CoinFl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionLevels", "PermissionLevels\PermissionLevels.csproj", "{78803FB5-B3F2-4E14-AE13-450A5B1ACFCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope", "Scope\Scope.csproj", "{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{78803FB5-B3F2-4E14-AE13-450A5B1ACFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78803FB5-B3F2-4E14-AE13-450A5B1ACFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78803FB5-B3F2-4E14-AE13-450A5B1ACFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
