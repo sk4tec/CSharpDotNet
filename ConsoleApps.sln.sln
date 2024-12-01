@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchChallenge", "SwitchCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{76A8DC36-7BE9-44E7-B68A-05E0A7CDD674}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleGame", "BattleGame\BattleGame.csproj", "{D14B6C12-B841-459E-8575-72FFE57ED3C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{76A8DC36-7BE9-44E7-B68A-05E0A7CDD674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76A8DC36-7BE9-44E7-B68A-05E0A7CDD674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76A8DC36-7BE9-44E7-B68A-05E0A7CDD674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14B6C12-B841-459E-8575-72FFE57ED3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14B6C12-B841-459E-8575-72FFE57ED3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14B6C12-B841-459E-8575-72FFE57ED3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14B6C12-B841-459E-8575-72FFE57ED3C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
