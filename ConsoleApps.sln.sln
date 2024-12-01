@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionLevels", "Permiss
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope", "Scope\Scope.csproj", "{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopeChallenge", "ScopeChallenge\ScopeChallenge.csproj", "{E13D8D75-4A55-4565-84F0-EE45F5EACFE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B08ED6F9-14E9-4C45-824A-3C6B1FAE4F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13D8D75-4A55-4565-84F0-EE45F5EACFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13D8D75-4A55-4565-84F0-EE45F5EACFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13D8D75-4A55-4565-84F0-EE45F5EACFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13D8D75-4A55-4565-84F0-EE45F5EACFE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
