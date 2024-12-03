@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoPets", "ContosoPets\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegralTypes", "IntegralTypes\IntegralTypes.csproj", "{C5CA7E23-468C-418F-863D-93A10C7B0DA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConversion", "DataConversion\DataConversion.csproj", "{F7755C14-F23A-4390-ADEE-FFDB7E16663A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{C5CA7E23-468C-418F-863D-93A10C7B0DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5CA7E23-468C-418F-863D-93A10C7B0DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5CA7E23-468C-418F-863D-93A10C7B0DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7755C14-F23A-4390-ADEE-FFDB7E16663A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7755C14-F23A-4390-ADEE-FFDB7E16663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7755C14-F23A-4390-ADEE-FFDB7E16663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7755C14-F23A-4390-ADEE-FFDB7E16663A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
