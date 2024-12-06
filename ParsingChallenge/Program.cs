@@ -33,3 +33,5 @@ foreach (var value in values)
 
 Console.WriteLine($"Message: {Message}");
 Console.WriteLine($"Total: {Total}");
+
+
