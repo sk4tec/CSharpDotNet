@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegralTypes", "IntegralTy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConversion", "DataConversion\DataConversion.csproj", "{F7755C14-F23A-4390-ADEE-FFDB7E16663A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{4C13E97C-FA0F-4EC8-8AA9-2CF849488E24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{F7755C14-F23A-4390-ADEE-FFDB7E16663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7755C14-F23A-4390-ADEE-FFDB7E16663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7755C14-F23A-4390-ADEE-FFDB7E16663A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C13E97C-FA0F-4EC8-8AA9-2CF849488E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C13E97C-FA0F-4EC8-8AA9-2CF849488E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C13E97C-FA0F-4EC8-8AA9-2CF849488E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C13E97C-FA0F-4EC8-8AA9-2CF849488E24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
