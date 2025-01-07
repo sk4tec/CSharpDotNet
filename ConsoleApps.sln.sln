@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "Stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaddingAndAlignment", "PaddingAndAlignment\PaddingAndAlignment.csproj", "{E474B041-D09D-44D2-880D-A1EC0C6B1263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Interpolation and Padding Challenge", "String Interpolation and Padding Challenge\String Interpolation and Padding Challenge.csproj", "{510FFEE2-BB7D-4DE2-B7FD-340897228DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,5 +203,9 @@ Global
 		{E474B041-D09D-44D2-880D-A1EC0C6B1263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E474B041-D09D-44D2-880D-A1EC0C6B1263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E474B041-D09D-44D2-880D-A1EC0C6B1263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510FFEE2-BB7D-4DE2-B7FD-340897228DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510FFEE2-BB7D-4DE2-B7FD-340897228DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510FFEE2-BB7D-4DE2-B7FD-340897228DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510FFEE2-BB7D-4DE2-B7FD-340897228DAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
