@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Challenge", "String 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingStrings", "FormattingStrings\FormattingStrings.csproj", "{F6984FCB-1B1B-4610-AB6C-5B315BBE8865}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{1B43EE0D-5854-48F8-B55C-554A77FE01FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,5 +191,9 @@ Global
 		{F6984FCB-1B1B-4610-AB6C-5B315BBE8865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6984FCB-1B1B-4610-AB6C-5B315BBE8865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6984FCB-1B1B-4610-AB6C-5B315BBE8865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B43EE0D-5854-48F8-B55C-554A77FE01FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B43EE0D-5854-48F8-B55C-554A77FE01FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B43EE0D-5854-48F8-B55C-554A77FE01FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B43EE0D-5854-48F8-B55C-554A77FE01FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
